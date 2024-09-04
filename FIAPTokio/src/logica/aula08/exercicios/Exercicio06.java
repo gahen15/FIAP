@@ -45,6 +45,10 @@ public class Exercicio06 {
                 return false;
             }
         }
+       
+        
+        
+        
         return true;
     }
 }
